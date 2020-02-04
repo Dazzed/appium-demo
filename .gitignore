@@ -1,0 +1,24 @@
+# OSX
+.DS_Store
+
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# apps
+*.apk
+*.ipa
+*.app
+*.zip
+
+#
+*.idea
+nohup.out
+yarn.lock
+app-debug.zip
+*.heapsnapshot
+tests/mobile-employee/specs/claimsTest.spec.js
+config/web.shared.conf.js
+config/mobile.ios.config.js
+config/mobile.android.config.js
